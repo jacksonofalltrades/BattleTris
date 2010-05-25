@@ -1,0 +1,13 @@
+BattleTris is a 2-player, networked, competitive Tetris originally conceived and programmed by Mike Shapiro and Brian Cantrill at Brown University as a final project for CS32 the Softwware Engineering class.
+
+It quickly became a popular respite for CS folks, who soon were filling the ranks of the department high-score list.
+
+If it ever found it's way outside of the department, I could never find it. About 3 years ago I remembered how much fun it was and decided that if I could find some of the details (of the visuals and weapons), I would attempt to recreate it in Java and make it playable over the Web.
+
+After working for some time to build it, I contacted the original creators asking their permission to make it freely available to the world, and started this group.
+
+Due to some technical issues and Life Being Busy, I paused work on it about 2 years ago, only to restart progress May 2008.
+
+I would like to tentatively say the release date for Beta is end of June 2008, but you know how software can go...
+
+So please help me to test this game! It's fun, quick, and great for just taking a break.
