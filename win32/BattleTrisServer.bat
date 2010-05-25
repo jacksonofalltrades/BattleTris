@@ -1,0 +1,1 @@
+java -Djava.security.policy="C:\Java\battletris\battletris.security.policy" battletris.net.BattleTrisServer

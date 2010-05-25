@@ -1,0 +1,1 @@
+java -Dbt.rootpath="C:\Java\battletris" -Djava.security.policy="C:\Java\battletris\battletris.security.policy" battletris.BattleTrisApp %1 240 480 %2 %3

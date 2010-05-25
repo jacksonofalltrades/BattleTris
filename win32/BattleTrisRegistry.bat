@@ -1,0 +1,1 @@
+rmiregistry -J-verbose -J-Djava.security.policy="C:\Java\battletris\battletris.security.policy" 3333
