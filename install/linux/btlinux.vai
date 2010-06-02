@@ -1,0 +1,28 @@
+# Install script for BattleTris Linux install
+# -------------------------------------------
+
+vainstall.archive.archivingMethod=append
+vainstall.archive.installClassName=BattleTrisSetup
+vainstall.archive.filelist=btfiles.txt
+vainstall.java.download.url=http\://www.java.com/download/manual.jsp
+vainstall.destination.targets=jar
+vainstall.destination.ui=graphic
+vainstall.lnf.class=[SYSTEM_LNF]
+vainstall.destination.language=english
+vainstall.destination.ui.bluescreen=no
+vainstall.destination.ui.bluescreen.colour=FFBBAA
+vainstall.destination.ui.image=../images/battletris_splash_old.jpg
+vainstall.destination.defaultPath=[HOME]BattleTris
+vainstall.destination.installMode=install
+vainstall.destination.appName=BattleTris
+vainstall.destination.appVersion=0.5
+vainstall.destination.linkSectionName=
+vainstall.destination.linkSectionIcon=
+vainstall.destination.linkEntryName=
+vainstall.destination.createUninstallShortcut=yes
+vainstall.destination.linkEntryIcon=
+vainstall.archive.license=../common/license.txt
+vainstall.archive.readme=../common/readme.txt
+vainstall.jarsigner.alias=desnoix
+vainstall.script.java.fullpath=false
+vainstall.shortcut.in.installdir=true

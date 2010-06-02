@@ -4,5 +4,6 @@
 	<classpathentry exported="true" kind="src" path="/SocketLib"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Starwarp"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/local/lib/VAInstall/vainstall.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
