@@ -1,0 +1,15 @@
+../..||battletris|!*.java
+../..||conf
+../..||images
+../..||log
+../../../SocketLib||starwarp|!*.java
+../../../Starwarp||utils|!*.java
+{
+	JavaLauncher
+	ScriptName=BattleTrisLauncher
+	ScriptChangeDirectory=[INSTALL_DIR]
+	JavaMode=windows
+	JavaArgs=-Dbt.directenv=true -Dbt.rootpath=[INSTALL_DIR]
+	Class=battletris.launch.BattleTrisLauncher
+	CreateShortcutOnDesktop=true
+}
